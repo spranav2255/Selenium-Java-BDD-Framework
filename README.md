@@ -1,2 +1,1 @@
-# Selenium-Java-BDD-Framework
-Selenium+Java+BDD Automation Framework 
+# Selenium-Java-BDD-Framework 
